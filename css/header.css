@@ -1,0 +1,39 @@
+.logo {
+  background: #b36050;
+  border-radius: 0px;
+}
+
+.logo h2 {
+  padding: 10px 0px 9px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  color: #f1d3b9;
+}
+
+.heder_botton {
+  display: flex;
+  padding: 5px 0px;
+  align-items: center;
+  justify-content: space-between;
+  background: #f6f4ec;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  padding: 16px 14px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #b4604d;
+}
+.logo img {
+  margin-left: -200px;
+  text-decoration: none;
+  color: #b4604d;
+  background: #f6f4ec;
+}

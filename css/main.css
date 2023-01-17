@@ -1,0 +1,175 @@
+@import "common.css";
+@import "header.css";
+@import "footer.css";
+
+.facilities-content {
+  text-align: center;
+}
+#meet {
+  margin-top: -5px;
+  background: #a9ae8d;
+  border-radius: 0px;
+}
+
+.facilities-content h2 {
+  padding-top: 15px;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 64px;
+
+  color: #f6f4ec;
+}
+.facilities-content p {
+  padding-top: 69px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: uppercase;
+
+  color: #f6f4ec;
+}
+.facilities-content button {
+  padding: 9px 20px 10px;
+  margin: 37px 0px 61px;
+  height: 48px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 29px;
+  color: #ffffff;
+  border: none;
+  background: #b45f4d;
+  border-radius: 0px;
+}
+.bottole h3 {
+  padding: 39px 0px 44px;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 39px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #b45f4d;
+}
+
+.bottle h4 {
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #b45f4d;
+}
+.bottle span {
+  padding-top: 7px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  color: #b45f4d;
+}
+
+.bottole .pro {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.bottole {
+  background: #f6f4ec;
+  border-radius: 0px;
+  padding-bottom: 100px;
+}
+
+.sirkl {
+  display: block;
+  /* background: #f1d3b9; */
+}
+
+.sirkl img {
+  /* padding: 34px 110px 40px 111px;
+  width: 100%;
+  background: #e5e5e5; */
+  text-align: center;
+  margin: 35px 110px;
+  width: 1219px;
+  height: 414px;
+}
+
+.chigo {
+  position: relative;
+  margin: -180px 110px 86px 110px;
+  width: 1219px;
+  height: 92px;
+  background-color: #df9b7a;
+  text-align: center;
+}
+.chigo h4 {
+  display: inline-block;
+  font-family: "roboto-light", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 90px;
+  text-transform: uppercase;
+  color: #f6f4ec;
+  text-align: center;
+}
+
+.chigo span {
+  display: inline-block;
+  margin-left: 550px;
+  font-family: "roboto-light", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 90px;
+  color: #f6f4ec;
+}
+
+.you {
+  background: #f1d3b9;
+}
+
+.you img {
+  width: 491px;
+  height: 734px;
+  margin: 85px 42px 100px 190px;
+}
+.people {
+  float: right;
+  margin: 160px 188px 170px 0px;
+  padding: 50px 50px;
+  display: block;
+  width: 520px;
+  height: 582px;
+  background: #f8f8f8;
+}
+.people h3 {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 58px;
+  font-family: "roboto-light", sans-serif;
+  color: #b45f4d;
+  text-align: center;
+}
+.people p {
+  margin: 20px 0px 40px 0px;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  font-family: "roboto-light", sans-serif;
+  color: #b45f4d;
+}
+
+.box {
+  padding: 35px 0px 0px 0;
+  text-align: center;
+}
+
+.box a {
+  font-weight: 900;
+  font-size: 23px;
+  line-height: 39px;
+  font-family: "roboto-bold", sans-serif;
+  color: #000000;
+}
+.lezz img {
+  margin: 25px 4px 40px 4px;
+  height: 130px;
+}

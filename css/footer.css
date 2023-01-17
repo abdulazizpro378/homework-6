@@ -1,0 +1,61 @@
+.proo {
+  background-color: #f6f4ec;
+}
+
+.max {
+  display: inline-block;
+  margin: 60px 64px 44px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 45px;
+  font-family: "roboto-light", sans-serif;
+  color: #b45f4d;
+}
+.chivo {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  display: inline-block;
+  font-family: "roboto-light", sans-serif;
+  color: #b45f4d;
+}
+.chivo li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  padding: 12px 84px 12px 400px;
+
+  color: #c17c6c;
+}
+
+.btn3 {
+  padding: ;
+  width: 500px;
+  height: 44px;
+  border-style: solid;
+ border: 2px solid #b45f4d;
+  background: #f6f4ec;
+}
+.btn3 p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 0px;
+  padding-right: 15px;
+  text-align: end;
+  border: 0px solid #b45f4d;
+  color: #b45f4d;
+}
+.pgp {
+  height: 3px;
+  margin-bottom: 65px;
+  background: #f1d3b9;
+}
+
+.ppp {
+  height: 60px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+
+  background: #f6f4ec;
+}
